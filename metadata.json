@@ -1,0 +1,6 @@
+{
+  "name": "Email-to-Action",
+  "description": "Transform messy email threads into concise summaries, verified decisions, actionable task tables, open questions, and editable reply drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
